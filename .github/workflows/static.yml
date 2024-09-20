@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Deletion Request</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 16px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>Data Deletion Request</h1>
+    <p>If you want to delete your data related to our app, please follow these steps:</p>
+    <ol>
+        <li>Send an email to <strong>muhammad.shakir@bic.edu.pk</strong> with the subject: <em>Data Deletion Request</em>.</li>
+        <li>In the email, include your Facebook User ID and a request to delete all associated data.</li>
+        <li>We will process your request within 24-48 hours and confirm via email once the data is deleted.</li>
+    </ol>
+    <p>Thank you for using our app!</p>
+</body>
+</html>
